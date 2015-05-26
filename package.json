@@ -1,0 +1,15 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "Various browser demos",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeeksDiary/demos.git"
+  },
+  "author": "Buddhike de Silva",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-server-livereload": "^1.3.0"
+  }
+}
